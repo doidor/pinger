@@ -1,7 +1,7 @@
 Simple site pinger
 ===
 
-There're lots of online services which help you ping your sites and get a report when one is down. AFAIK none of them are free. This is a super simple tool to help you check your websites and report back if there are some issues. If everything goes well, it will output the current time so you can store it in a log file or something.
+There're lots of online services which help you ping your sites and get a report when one is down. AFAIK none of them is free. This is a super simple tool to help you check your websites and report back if there are some issues. If everything goes well, it will output the current time so you can store it in a log file or something.
 
 ### Requirements
 
